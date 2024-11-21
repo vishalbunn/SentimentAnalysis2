@@ -74,10 +74,7 @@ This project is a Flask-based web application for **sentiment analysis**. It all
      - **Single Prediction**: JSON object with the sentiment prediction.
      - **Bulk Prediction**: CSV file with predictions and sentiment distribution graph.
 
-## 📊 Example Bulk Prediction Output
-- **CSV Columns**: Original `Sentence` and the predicted `Sentiment`.
-- **Graph**: A pie chart showing sentiment distribution (Positive vs Negative).
-![Sentiment Distribution](docs/sentiment_distribution.png)
+
 
 ## 🤝 Contributing
 Contributions are welcome! To contribute:
@@ -87,13 +84,6 @@ Contributions are welcome! To contribute:
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
 
-## ⚖️ License
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
-## 📞 Contact
-For questions or feedback, feel free to reach out:
-- Email: YOUR_EMAIL@example.com
-- GitHub: [YOUR_GITHUB_USERNAME](https://github.com/vishalbunn)
 
-### 🎉 Thank you for using the Sentiment Analysis Web App!
 
