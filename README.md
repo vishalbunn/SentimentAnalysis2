@@ -1,9 +1,3 @@
-The README.md you've created looks excellent! It provides a comprehensive overview of the Sentiment Analysis Web Application with clear sections, code blocks, and formatting. I'll help you prepare it for GitHub upload by addressing a few minor points:
-
-
-
-
-
 # Sentiment Analysis Web Application
 This project is a Flask-based web application for **sentiment analysis**. It allows users to predict sentiments (Positive or Negative) for individual text inputs or bulk data (CSV files). The app also provides a graphical distribution of sentiments for bulk predictions.
 
